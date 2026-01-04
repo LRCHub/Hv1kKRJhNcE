@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "浮気したらあかんで",
+  "base_artist": "コレサワ",
+  "createdAt": "2026-01-04T16:22:54.124584Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "浮気したらあかんで",
+      "artist": "コレサワ",
+      "has_synced": false,
+      "path": "select/pl_01_浮気したらあかんで_コレサワ.txt"
+    }
+  ]
+}
